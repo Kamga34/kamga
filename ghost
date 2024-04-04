@@ -1,0 +1,79 @@
+<!TYPEDOC HTML>
+
+<html>
+	<head>
+	
+			<title>TP ICT 108 </title>
+			<link href="http://fonts.googleapis.com/css?family=crete+round" rel="stylesheet">
+			<header> 
+				<div class="wrapper">
+					<h1 Style="color:blue" align=center> 
+						BIENVENUE SUR MA PAGE WEB<span class="red">.<span>
+					</h1>
+				</div>
+					
+			 </header>
+			<style>
+			.imge-haut-gauche{
+			position:absolute;
+			top:40;
+			right:50;
+			}
+			</style>
+	
+	</head>
+	<body>
+	<ol type=I>
+	<li>
+	    <h1><u> profil</U> </h1>
+	
+	</li>
+	
+	<ul type=square>
+	<li>
+	NOM:kamga
+	</li>
+	<br>
+	<li>
+	PRENOM:jordane
+	</li>
+	<br>
+	<li>
+	 MATRICULE:23U2536
+	</LI>
+	<br>
+	<li>
+	DATE DE NAISSANCE:29/08/2003
+	</li>
+	<br>
+	<li>
+	SEXE:masculin 
+	</li>
+	</ul>
+	 <img src="C:\Users\dell\OneDrive\Bureau\TP site\image.jpg" width=200 height=200
+	 class="imge-haut-gauche">
+	
+	<li>
+	<h1><u>parcours scolaire</u><h1>
+	</li>
+	</ol>
+	<ul>
+	<li>
+	<p>2014 obtension du CPE a la l ecole primaire les oiselets</P>
+	</li>
+	<br>
+	<LI>
+	<p>2017 obtension du BEPC au lycee bilingue de baleng</p>
+	</li>
+	<br>
+	<li>
+	<p>2021 obtension du probatoire au lycee de baleng</p>
+	</BR>
+	<li>
+	<p>2022 obtension du baccalaureat au lycee de balent</p>
+	</li>
+	<br>
+	<li>
+	<P>2023 debut d une formation professionnelle en informatique a l unniversite de yaounde I filiere <p style="color:blue">ICT4D</p></p>
+	</body
+</html>
